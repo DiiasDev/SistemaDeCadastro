@@ -1,6 +1,5 @@
 import json
 
-
 def criar():
     nome_arquivo = input("Entre com o nome do arquivo (ola.json): ")
 
